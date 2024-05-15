@@ -14,7 +14,6 @@
 
 [![mervin-prog's GitHub | Stats](https://stats.quine.sh/mervin-prog/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mervin-prog)
 
-
 [![mervin-prog's Stack Overflow | Stats](https://stats.quine.sh/mervin-prog/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mervin-prog)
 
 # 📊 GitHub Stats:
